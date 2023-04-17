@@ -1,1 +1,5 @@
-# soccer-goal-predict-541-project
+# Soccer Goal Predict
+
+* Himanshu Gandhi
+* Sumaiya Rahman
+* Hedieh Hossein Zadeh Kalachahi
